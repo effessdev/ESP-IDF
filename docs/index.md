@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# Welcome!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This website will teach you **embedded systems development** using the ESP-IDF framework by Espressif Systems.
 
-## Commands
+## What makes this different
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Unlike older courses, this is specifically designed to make you a successful embedded systems engineer in the era of AI. We skip over:
 
-## Project layout
+- rot learning syntax
+- memorizing the API
+- typing code manually
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+We focus on:
+
+- systems thinking
+- debugging using AI
+- guiding AI into writing clean code
+- managing AI agents efficiently
+
+This course is heavily in development. Feel free to [contibute](https://github.com/effessdev/esp-idf).
