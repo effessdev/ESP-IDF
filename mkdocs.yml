@@ -5,7 +5,7 @@ site_author: EffessDev
 theme:
   name: material
   logo: assets/effessdev.svg
-  favicon: assets/effessdev.png
+  favicon: assets/effessdev.ico
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
