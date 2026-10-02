@@ -9,15 +9,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue # Closest built-in match to #045a87
-      accent: amber # Matches #fce168 (yellow accent)
+      primary: teal
+      accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue # Closest built-in match to #045a87
-      accent: light blue # Matches #82d1fe (sky blue accent)
+      primary: teal
+      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
