@@ -4,13 +4,15 @@ This website will teach you **embedded systems development** using the ESP-IDF f
 
 ## What makes this different
 
-Unlike older courses, this is specifically designed to make you a successful embedded systems engineer in the era of AI. We skip over:
+Unlike older courses, this is specifically designed to make you a successful embedded systems engineer in the era of AI.
+
+### We skip over
 
 - rot learning syntax
 - memorizing the API
 - typing code manually
 
-We focus on:
+### We focus on
 
 - systems thinking
 - debugging using AI
