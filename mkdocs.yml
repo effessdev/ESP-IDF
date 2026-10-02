@@ -37,7 +37,3 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Getting Started:
-      - Setup: getting-started/setup.md
-  - API Reference:
-      - WiFi: api/wifi.md
